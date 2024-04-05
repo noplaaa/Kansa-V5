@@ -1,0 +1,8 @@
+@font-face {
+  font-family: inter light;
+  src: url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+}
+
+.inter {
+  font-family: inter semibold;
+}
